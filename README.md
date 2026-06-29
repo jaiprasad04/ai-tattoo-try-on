@@ -15,6 +15,8 @@
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
 
+https://github.com/user-attachments/assets/9b347782-e043-4111-91c3-4a7c74c76875
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-tattoo-try-on](https://github.com/SamurAIGPT/ai-tattoo-try-on)
